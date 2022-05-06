@@ -177,6 +177,7 @@ Component that separates courses into sections, purely a styling component that 
 <template #courses="{ list }">
 ```
 
+- `list`: exposes courses list from section
 
 
 
